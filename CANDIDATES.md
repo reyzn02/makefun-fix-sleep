@@ -38,7 +38,7 @@ Fresh round, aiming to beat the v3 champion (12):
 | 14 | Fixed a bug where the brain treated bedtime as a group meeting to review every embarrassing thing from 2009. (109) | Good corporate frame, but "review every embarrassing thing" is the same 2009 joke with a weaker image than tabs. Loses to (16). |
 | 15 | Fixed a bug where the dream server went down nightly at 3 a.m. and served a rerun of your most embarrassing moment instead. (118) | Good "dream server" premise, but "served a rerun" is wordier and slower than the tabs line. Loses to (16). |
 | 16 | **NEW CHAMPION** — Fixed a bug where closing your eyes opened 47 browser tabs, all titled 'Things You Said in 2009'. (97) | Beats (12): same 2009 punch, but 47 titled tabs is more chaotic and vivid than a loading screen — wins on (5) specificity/surprise and on (2) the joke. Beats (17) on (1): it is anchored in the sleep act itself (closing your eyes), where the screensaver is only brain-adjacent. |
-| 17 | Fixed a bug where the brain's screensaver was just you, age 14, saying something stupid in 2009. (99) | Close second. "Age 14, saying something stupid" is a huge laugh — arguably wins (2) by a hair — but loses to (16) on (1), which the brief weighs first: a screensaver is the brain idling, not sleep being fixed. |
+| 17 | Fixed a bug where the brain's screensaver was just you, age 14, saying something stupid in 2009. (96) | Close second. "Age 14, saying something stupid" is a huge laugh — arguably wins (2) by a hair — but loses to (16) on (1), which the brief weighs first: a screensaver is the brain idling, not sleep being fixed. |
 
 Tournament: (16) beat (12) in the final, (17) the runner-up. Total candidates: 17 serious (12 + 5 fresh).
 
