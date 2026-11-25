@@ -51,3 +51,57 @@ Bar: Turning It Off top neighbors 66–69% win rate; Robot Romance neighbors ~57
 - vs the Cooking Game lesson (winner 89.5% = a deep specific world whose title enumerated the depth): at line scale the champion does the same thing — it is a specific world (47 titled tabs) with a count, not a generic claim. No generic line was submitted.
 
 **Verdict: PASS — champion plausibly beats the top-neighbor bar. Proceed to submit pass.**
+
+## CORRECTED beat-the-top (26 Nov ~01:30 WIB) — THIS competition's own submissions
+
+Method (corrected per coordinator 01:30 WIB): GET /api/competitions/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27 → submissions[].title, live at 01:30 WIB: **1,230 submissions** (scan said 1,002 — field exploded). 304 entries carry only the default title; 295 unique real lines. Dueled the v4 champion against the 5 strongest visible lines, judge brief criteria in order.
+
+Strongest visible lines (S1–S5):
+- S1: "Fixed a bug where humans would lie awake at 3 a.m. rehearsing a conversation from 2014; the conversation has been deprecated."
+- S2: "Removed the hidden falling-off-a-cliff leg jolt that fired 0.5 seconds before sleep. Cliffs are now opt-in."
+- S3: "Fixed a bug where sleep was interrupted at 3 a.m. by a replay of saying 'you too' when the waiter said 'enjoy your meal'; the clip now plays for HR."
+- S4: "v2.0.1: The snooze button no longer works. We fixed you instead."
+- S5: "Fixed: sleep no longer crashes at 3am with error 'have you considered every mistake you've ever made'."
+
+### v4 champion (#16, 47 tabs) vs S1–S5: LOSES 1–4 — FAIL
+- vs S1: LOSE — "deprecated" is a perfect one-word punchline on an equally relatable setup; the tabs line has no punchline beat.
+- vs S2: LOSE — hyper-specific real body phenomenon + "opt-in" beats a generic tabs joke on (2) and (5).
+- vs S3: LOSE — hyper-specific memory + HR escalation beats the tabs image on (2) and (5).
+- vs S4: LOSE (narrow) — "We fixed you instead" is a sharper twist than the tabs image.
+- vs S5: WIN (narrow) — titled tabs edge the error-message format on (5).
+- Collision finding: the 47-tabs concept appears in SEVEN rival lines ("closing your eyes no longer opens 47 tabs in your brain", "closing 47 mental browser tabs first", "closing all 47 mental tabs first", "47 tabs auto-close at lights-out", "Your Brain Opened 47 Tabs", etc.). The 3 a.m. replay / 2009 / 2014 trope saturates dozens of lines. The v4 champion is unoriginal in this field — it cannot win on surprise (5).
+
+### Fresh round B (candidates 18–23) — champion #18
+| # | Line (chars) | Verdict |
+|---|--------------|---------|
+| 18 | **NEW CHAMPION** — Fixed a bug where sleep required a 45-minute loading screen, a terms-and-conditions scroll, and a captcha proving you are tired. (128) | Three-beat escalation (loading screen → T&C scroll → captcha proving you are tired). Each beat is a fresh image; the captcha punchline is a genuine laugh; the combination appears in NO rival line. Wins the round on (2) and (5). |
+| 19 | Fixed a bug where the brain kept a 3 a.m. open mic night for your most embarrassing moments; the mic has been unplugged. (120) | Good frame, "mic unplugged" decent — but one beat vs #18's three. Loses on (2)/(5). |
+| 20 | Fixed a bug where the brain kept reopening a 2011 support ticket titled 'Why did I say that?'; the ticket has been closed as user error. (136) | "Closed as user error" is a great single-phrase punchline; loses narrowly to #18 on (5) — one frame vs three images. |
+| 21 | Fixed a bug where sleep expired at 3 a.m. like a free trial; the trial has been extended to 8 hours, no card required. (118) | "No card required" is good, but the setup is more abstract than #18's. Loses on (2)/(5). |
+| 22 | Fixed a bug where sleep auto-played the director's commentary of your most embarrassing day; the commentary has been muted. (123) | Fresh frame, but "muted" is a weak punchline. Loses. |
+| 23 | Fixed a bug where the brain's screensaver was just you, age 14, saying something stupid in 2009. (96) | Old #17 carried over. Big laugh on (2), but one image vs #18's three, and brain-adjacent rather than sleep-anchored (1). Loses narrowly. |
+
+### Fresh round C (candidates 24–28) — none dethrones #18
+| # | Line (chars) | Verdict |
+|---|--------------|---------|
+| 24 | Fixed a bug where the body did a full-system shiver the moment the blanket reached perfect temperature; the shiver has been scheduled for never. (144) | Real experience, but "scheduled for never" is already used by a rival line ("cringe playback is now scheduled for never"). Loses to #18. |
+| 25 | Fixed a bug where one foot escaped the blanket at 2 a.m. and filed a complaint about the cold; the foot has been tucked in. (123) | Cute, but smaller laugh than #18's escalation. Loses on (2). |
+| 26 | Fixed a bug where sleep replayed the time you waved back at someone who wasn't waving at you; the wave has been returned to sender. (131) | Strongest challenger: hyper-specific moment + perfect "returned to sender" punchline. Loses to #18 narrowly (margin 1) on (5) — one moment vs three distinct images. |
+| 27 | Fixed a bug where the brain replayed your voicemail greeting from 2011 every night at 3 a.m.; the greeting has been re-recorded. (128) | Good image, but 2011-replay trope. Loses to #18. |
+| 28 | Fixed a bug where sleep opened with a clip of you tripping over nothing in front of a crowd; the clip has been removed from the highlight reel. (143) | Relatable, but loses to #18 on (5). |
+
+Total candidates: **28** (12 + 5 + 6 + 5). Two fresh rounds used after the corrected beat-the-top, per the max-2 rule.
+
+### #18 vs S1–S5: WINS 3–2 — PASS (narrow)
+- vs S1: WIN (margin 1) — three-beat escalation + captcha punchline vs one setup + one-word punchline; #18's frame is fresher than the saturated rehearsal trope.
+- vs S2: LOSE (margin 1) — the cliff-jolt is a hyper-specific real body phenomenon with a perfect "opt-in".
+- vs S3: LOSE (margin 1) — the 'you too' waiter memory + HR escalation is more surprising than the captcha.
+- vs S4: WIN (margin 2) — three beats + captcha punchline beats a single twist.
+- vs S5: WIN (margin 1–2) — #18's escalation is fresher than the generic replay trope behind the error format.
+
+**Verdict: PASS — champion #18 plausibly beats the top-5 visible band (3–2, both losses narrow). Proceed to submit pass.**
+
+### Caveats (recorded honestly)
+- This is a simulation, not the real judge (z-ai/glm-5.3-flash, head-to-head, blind rounds). Margins are my judgment, not judge verdicts.
+- Dueled on submissions[].title — titles usually carry the line in this competition, but a title is not guaranteed to equal the entry text; 304 entries hide behind the default title and their texts are invisible.
+- Field is 1,230 entries; the final heat takes only the top 500 on the dev board — the first hurdle is passing that cut, and dev-board scores are dense.
